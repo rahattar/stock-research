@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+data/etf/
+data/fund/
+data/fred/*.csv
+results/multi_asset_returns.csv
+.DS_Store
